@@ -1,5 +1,5 @@
 # FasterYoutube
-see FasterYoutube-SCREENSHOT.png
+"FasterYoutube-SCREENSHOT.png"
 
 Ad-free Youtube Search. Uses React. Youtube API.
 
